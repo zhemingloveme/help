@@ -27,4 +27,4 @@ mac/linux终端运行：./pdf.sh
 
 
 注：
-官方参考文档：https://github.com/GitbookIO／gitbook／
+官方参考文档：https://github.com/GitbookIO/gitbook/
